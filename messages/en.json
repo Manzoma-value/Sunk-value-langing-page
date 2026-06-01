@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "title": "Sunk Value — Transforming Hidden Value Into Market Waves",
+    "description": "Sunk Value helps organizations uncover hidden economic opportunities, structure scalable business models, and launch ventures, products, and partnerships that create measurable growth."
+  },
+  "brand": {
+    "name": "Sunk Value",
+    "tagline": "Transforming hidden value into market waves."
+  },
+  "nav": {
+    "concept": "Concept",
+    "model": "Model",
+    "products": "Products",
+    "createWave": "Create a Wave",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "hero": {
+    "eyebrow": "Strategic Value Creation",
+    "headline": "Transforming Hidden Value Into Market Waves",
+    "subheadline": "Sunk Value helps organizations uncover hidden economic opportunities, structure them into scalable business models, and launch new ventures, products, and partnerships that create measurable growth.",
+    "ctaPrimary": "Create a Wave",
+    "ctaSecondary": "Explore the Model",
+    "flow": ["Concept", "Model", "Products", "Wave"],
+    "orbits": [
+      "Corporate VC",
+      "Accelerators",
+      "Innovation Labs",
+      "Venture Hubs",
+      "Fintech",
+      "Agritech",
+      "Clean Energy",
+      "Water Tech",
+      "Healthtech"
+    ]
+  },
+  "concept": {
+    "label": "The Concept",
+    "title": "The Sunk Value Concept",
+    "body": [
+      "Every organization contains hidden value: unused knowledge, underutilized assets, market access, brand equity, operational capabilities, and strategic relationships.",
+      "Sunk Value converts these dormant resources into productive economic value through structured concept design, business modeling, and market activation."
+    ],
+    "flow": [
+      { "label": "Dormant Assets", "note": "What sits unseen" },
+      { "label": "Strategic Insight", "note": "What it could become" },
+      { "label": "Business Model", "note": "How it is structured" },
+      { "label": "Productive Value", "note": "What it returns" }
+    ]
+  },
+  "model": {
+    "label": "The Model",
+    "title": "The Value Creation Model",
+    "body": "We combine market analysis, business strategy, resource activation, proof-of-concept validation, and venture management to transform opportunities into executable growth models.",
+    "steps": [
+      { "title": "Analyze the Business", "note": "Map assets, capabilities, and constraints." },
+      { "title": "Identify the Opportunity", "note": "Locate the hidden economic potential." },
+      { "title": "Structure the Model", "note": "Design the business architecture." },
+      { "title": "Activate Resources", "note": "Mobilize capital, talent, and networks." },
+      { "title": "Validate the Concept", "note": "Prove demand and unit economics." },
+      { "title": "Launch the Venture", "note": "Take the model to market." },
+      { "title": "Manage the Growth", "note": "Steer scale and compounding value." }
+    ]
+  },
+  "products": {
+    "label": "The Products",
+    "title": "Products of Strategic Value",
+    "body": "Sunk Value creates business products that help organizations enter new markets, build new ventures, activate partnerships, and transform internal capabilities into external growth opportunities.",
+    "cards": [
+      { "title": "Venture Models", "body": "Business structures designed to convert hidden opportunities into scalable ventures." },
+      { "title": "Innovation Labs", "body": "Focused environments for testing concepts, building prototypes, and validating market potential." },
+      { "title": "Incubation Hubs", "body": "Platforms that connect founders, experts, resources, and strategic partners." },
+      { "title": "Market Entry Programs", "body": "Structured programs that help organizations enter new segments with clarity and speed." },
+      { "title": "Strategic Partnerships", "body": "Partnership models that combine capabilities, networks, and shared market access." },
+      { "title": "Growth Platforms", "body": "Scalable products and programs designed to generate long-term economic impact." }
+    ]
+  },
+  "capabilities": {
+    "label": "The Capabilities",
+    "title": "Capabilities Behind the Wave",
+    "intro": "Our team supports organizations with the expertise, mentoring, and development capabilities required to move from strategic idea to market execution.",
+    "cards": [
+      { "index": "01", "title": "Expertise", "body": "Access to industry best practices, market knowledge, advisory insight, and business model validation." },
+      { "index": "02", "title": "Mentoring", "body": "Active coaching that helps teams progress with clarity, discipline, and measurable direction." },
+      { "index": "03", "title": "Development", "body": "Transfer of practical expertise to client teams so they know exactly what to build, manage, and scale." }
+    ]
+  },
+  "createWave": {
+    "label": "Create a Wave",
+    "title": "Create Your Next Wave",
+    "body": "Every market shift creates a new wave. Sunk Value helps you see it earlier, design it smarter, and launch it with the right model, resources, and partners.",
+    "cta": "Create a Wave",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "organization": "Organization",
+      "message": "Message",
+      "submit": "Create a Wave",
+      "success": "Thank you. Your wave is in motion — we will be in touch shortly.",
+      "namePlaceholder": "Your full name",
+      "emailPlaceholder": "you@organization.com",
+      "organizationPlaceholder": "Your organization",
+      "messagePlaceholder": "Tell us about the value you want to unlock."
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "nav": "Navigation"
+  }
+}
