@@ -5,12 +5,12 @@ type FooterProps = {
   tagline: string;
   navLabel: string;
   rights: string;
-
   links: {  href: string; label: string }[];
 };
 
 export default function Footer({
   brand,
+  
   tagline,
   navLabel,
   rights,
