@@ -5,7 +5,8 @@ type FooterProps = {
   tagline: string;
   navLabel: string;
   rights: string;
-  links: { href: string; label: string }[];
+
+  links: {  href: string; label: string }[];
 };
 
 export default function Footer({
